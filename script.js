@@ -2,13 +2,13 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.2.0/firebas
 import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/10.2.0/firebase-auth.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDFnj3NElYX6vY4sQ2nbF0zzF2803Qufrw",
-    authDomain: "hassan-3edb0.firebaseapp.com",
-    databaseURL: "https://hassan-3edb04-default-rtdb.firebaseio.com",
-    projectId: "hassan-3edb0",
-    storageBucket: "hassan-3edb0.appspot.com",
-    messagingSenderId: "1009000358737",
-    appId: "1:1009000358737:web:c8372962a4894230336970",
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
 };
 
 const app = initializeApp(firebaseConfig);
